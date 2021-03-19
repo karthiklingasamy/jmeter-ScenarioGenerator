@@ -80,3 +80,5 @@ create new temp file in your working directory
 git is aware of any file already commited into repo or any file already into index or git staging area
 >git ls-files
 >git status (You will see untracked file)
+
+Step
